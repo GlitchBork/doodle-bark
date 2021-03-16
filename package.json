@@ -1,4 +1,13 @@
 {
+  "name": "doodle-bark",
+  "version": "0.0.1",
+  "description": "",
+  "main": "./src/app.js",
+  "scripts": {
+    "start": "node ."
+  },
+  "author": "The Shapeless Team",
+  "license": "Apache-2.0",
   "dependencies": {
     "dotenv": "^8.2.0",
     "firebase": "^8.3.0"
