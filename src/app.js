@@ -24,7 +24,7 @@
         projectId:         "doodle-bark",
         storageBucket:     process.env.FIREBASE_STORAGE_BUCKET,
         messagingSenderId: "289028901714",
-        appId:             "1:289028901714:web:2ad20cd2f2f1beaa0c088b"
+        appId:             process.env.FIREBASE_APP_ID
     });
 
     const auth      = firebase.auth(),
