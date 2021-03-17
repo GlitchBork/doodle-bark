@@ -1,7 +1,11 @@
 # Doodle Bark
+<!-- #region // BADGES -->
+![version](https://img.shields.io/github/package-json/v/GlitchBork/doodle-bark/web-dev)
+<!-- #endregion BADGES -->
+
 Connect and doodle!
 
-### Used code/services and their copyrights:
-- express - [MIT](https://github.com/expressjs/express/raw/master/LICENSE)
-- firebase - [APACHE 2.0](https://github.com/firebase/firebase-js-sdk/raw/master/LICENSE)
-- dotenv - [MIT](https://github.com/motdotla/dotenv/raw/master/LICENSE)
+<span class="footer">
+  <a href="https://github.com/GlitchBork/doodle-bark/blob/main/LICENSE.md" title="View Licenses">📜 LICENSES</a><br />
+  <a href="https://ko-fi.com/glitchbork" title="Donate to Glitch Bork" target="_blank">☕ DONATE</a>
+</span>
