@@ -1,9 +1,12 @@
 /**
- * @file Main Doodle Bark Web application file.
+ * @file      Main Doodle Bark Web application file.
  * @copyright The Shapeless Team 2021
+ * @license   MIT
  * 
- * @author Glitch Bork <glitchbork.dev@gmail.com>
+ * @author    Glitch Bork <glitchbork.dev@gmail.com>
  */
+
+
 
 /////////////////////
 // #region // INIT //
@@ -24,7 +27,7 @@
         projectId:         "doodle-bark",
         storageBucket:     process.env.FIREBASE_STORAGE_BUCKET,
         messagingSenderId: "289028901714",
-        appId:             process.env.FIREBASE_APP_ID
+        appId:             process.env.FIREBASE_APP_ID,
     });
 
     const auth      = firebase.auth(),
