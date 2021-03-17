@@ -38,11 +38,11 @@
 
 <span align="justify">
   <span>
-    <h4 id="mit-doodlebark">DOODLE BARK</h4>
+    <h4 id="mit-doodlebark">Doodle Bark</h4>
     <ul>
       <li>Copyright (c) 2020-2021 Glitch Bork &lt;<a href="mailto:glitchbork.dev@gmail.com">glitchbork.dev@gmail.com</a>&gt;</li>
     </ul>
-    <h4 id="mit-express">EXPRESS</h4>
+    <h4 id="mit-express">Express</h4>
     <ul>
       <li>Copyright (c) 2009-2014 TJ Holowaychuk &lt;<a href="mailto:tj@vision-media.ca">tj@vision-media.ca</a>&gt;</li>
       <li>Copyright (c) 2013-2014 Roman Shtylman &lt;<a href="mailto:shtylman+expressjs@gmail.com">shtylman+expressjs@gmail.com</a>&gt;</li>
@@ -87,7 +87,7 @@
 
 <span align="justify">
   <span>
-    <h4 id="apache2-0-firebase">FIREBASE</h4>
+    <h4 id="apache2-0-firebase">Firebase</h4>
     <ul>
       <li>Copyright [yyyy] [name of copyright owner]</li>
     </ul>
@@ -120,7 +120,7 @@
 
 <span align="justify">
   <span>
-    <h4 id="bsd2-dotenv">DOTENV</h4>
+    <h4 id="bsd2-dotenv">dotenv</h4>
     <ul>
       <li>Copyright (c) 2015, Scott Motte  All rights reserved.</li>
     </ul>
