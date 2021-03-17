@@ -21,14 +21,7 @@
 
 
     // Firebase
-    firebase.initializeApp({
-        apiKey:            process.env.FIREBASE_API_KEY,
-        authDomain:        process.env.FIREBASE_AUTH_DOMAIN,
-        projectId:         "doodle-bark",
-        storageBucket:     process.env.FIREBASE_STORAGE_BUCKET,
-        messagingSenderId: "289028901714",
-        appId:             process.env.FIREBASE_APP_ID,
-    });
+    firebase.initializeApp(require('./firebase.json'));
 
     const auth      = firebase.auth(),
           firestore = firebase.firestore();
