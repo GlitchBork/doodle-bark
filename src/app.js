@@ -1,9 +1,9 @@
 /**
- * @file      Main Doodle Bark Web application file.
- * @copyright The Shapeless Team 2021
- * @license   MIT
+ * @file        Main Doodle Bark Web application file.
+ * @copyright   The Shapeless Team 2021
+ * @license     MIT
  * 
- * @author    Glitch Bork <glitchbork.dev@gmail.com>
+ * @author      Glitch Bork <glitchbork.dev@gmail.com>
  */
 
 
