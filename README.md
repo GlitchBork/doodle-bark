@@ -1,6 +1,7 @@
 # Doodle Bark
+
 <!-- #region // BADGES -->
-![version](https://img.shields.io/github/package-json/v/GlitchBork/doodle-bark/web-dev)
+<img title="Web Version" src="https://img.shields.io/github/package-json/v/GlitchBork/doodle-bark/web-dev" />
 <!-- #endregion BADGES -->
 
 Connect and doodle!
