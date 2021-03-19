@@ -19,6 +19,7 @@
       <li><a href="#mit-doodlebark">Doodle Bark</a></li>
       <li><a href="#mit-express">Express</a></li>
       <li><a href="#mit-cookieparser">cookie-parser</a></li>
+      <li><a href="#mit-csrf">csrf</a></li>
     </ul>
   </li>
   
@@ -80,6 +81,11 @@
     <h4 id="mit-cookieparser">cookie-parser</h4>
     <ul>
       <li>Copyright (c) 2014 TJ Holowaychuk &lt;<a href="mailto:tj@vision-media.ca">tj@vision-media.ca</a>&gt;</li>
+      <li>Copyright (c) 2015 Douglas Christopher Wilson &lt;<a href="mailto:doug@somethingdoug.com">doug@somethingdoug.com</a>&gt;</li>
+    </ul>
+    <h4 id="mit-csrf">csrf</h4>
+    <ul>
+      <li>Copyright (c) 2014 Jonathan Ong &lt;<a href="mailto:me@jongleberry.com">me@jongleberry.com</a>&gt;</li>
       <li>Copyright (c) 2015 Douglas Christopher Wilson &lt;<a href="mailto:doug@somethingdoug.com">doug@somethingdoug.com</a>&gt;</li>
     </ul>
   </span>
