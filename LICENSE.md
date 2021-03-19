@@ -18,7 +18,7 @@
     <ul>
       <li><a href="#mit-doodlebark">Doodle Bark</a></li>
       <li><a href="#mit-express">Express</a></li>
-      <li><a href="#mit-cookieparser">Cookie-Parser</a></li>
+      <li><a href="#mit-cookieparser">cookie-parser</a></li>
     </ul>
   </li>
   
@@ -77,7 +77,7 @@
       <li>Copyright (c) 2013-2014 Roman Shtylman &lt;<a href="mailto:shtylman+expressjs@gmail.com">shtylman+expressjs@gmail.com</a>&gt;</li>
       <li>Copyright (c) 2014-2015 Douglas Christopher Wilson &lt;<a href="mailto:doug@somethingdoug.com">doug@somethingdoug.com</a>&gt;</li>
     </ul>
-    <h4 id="mit-cookieparser">Cookie-Parser</h4>
+    <h4 id="mit-cookieparser">cookie-parser</h4>
     <ul>
       <li>Copyright (c) 2014 TJ Holowaychuk &lt;<a href="mailto:tj@vision-media.ca">tj@vision-media.ca</a>&gt;</li>
       <li>Copyright (c) 2015 Douglas Christopher Wilson &lt;<a href="mailto:doug@somethingdoug.com">doug@somethingdoug.com</a>&gt;</li>
