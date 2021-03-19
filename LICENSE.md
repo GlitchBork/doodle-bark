@@ -41,7 +41,7 @@
   <li>
     <strong><a href="#license-bsd-3-clause">BSD 3-CLAUSE</a></strong>
     <ul>
-      <li><a href="#bsd2-express-handlebars">express-handlebars</a></li>
+      <li><a href="#bsd3-express-handlebars">express-handlebars</a></li>
     </ul>
   </li>
 
