@@ -1,6 +1,18 @@
+<span align="center">
+  <strong>
+    The Doodle Bark source code is licensed under the MIT license, <br />
+    here's all the other licenses and projects and code used for this project. <br />
+    I'm very thankful that there's so many developers working to make great things and <br />
+    help each other out. I love that development and creativity has gone so far. <br />
+    Anyways, stay hydrated and stretch and stay curious!<br />
+  </strong>
+  ~ Glitch Bork
+</span>
+
 <h1 align="center">LICENSES</h1>
 
-<ul>
+<ul class="licenses">
+  
   <li>
     <strong><a href="#license-mit">MIT</a></strong>
     <ul>
@@ -8,29 +20,52 @@
       <li><a href="#mit-express">Express</a></li>
     </ul>
   </li>
+  
   <li>
     <strong><a href="#license-apache2-0">APACHE 2.0</a></strong>
     <ul>
       <li><a href="#apache2-0-firebase">Firebase</a> ( just has template brackets cause they forgot to put the copyright )</li>
     </ul>
   </li>
+  
   <li>
     <strong><a href="#license-bsd-2-clause">BSD 2-CLAUSE</a></strong>
     <ul>
       <li><a href="#bsd2-dotenv">dotenv</a></li>
     </ul>
   </li>
+  
   <li>
     <strong><a href="#license-bsd-3-clause">BSD 3-CLAUSE</a></strong>
     <ul>
       <li><a href="#bsd3-protobuf">Protocol Buffers - Google's data interchange format</a></li>
     </ul>
   </li>
+
 </ul>
+
+<br />
+
+<ul class="thanks">
+  
+  <li>
+    <strong><a href="#difficult-code">THANKS FOR HELP ON DIFFICULT CODE</a></strong>
+    <ul>
+      <li>
+        <a href="https://crookm.com" title="Visit their blog!" target="_blank">Matt Crook</a> - <a href="https://crookm.com/journal/2018/handling-express.js-body-parser-json-exceptions">"Handling Express.js Body Parser JSON Exceptions"</a>
+      </li>
+    </ul>
+  </li>
+  
+</ul>
+
+
 
 <br />
 <br />
 <br />
+
+
 
 <h2 id="license-mit" align="center">
   MIT LICENSE
