@@ -49,7 +49,7 @@
 <ul class="thanks">
   
   <li>
-    <strong><a href="#difficult-code">THANKS FOR HELP ON DIFFICULT CODE</a></strong>
+    <strong>THANKS FOR HELP ON DIFFICULT CODE</strong>
     <ul>
       <li>
         <a href="https://crookm.com" title="Visit their blog!" target="_blank">Matt Crook</a> - <a href="https://crookm.com/journal/2018/handling-express.js-body-parser-json-exceptions">"Handling Express.js Body Parser JSON Exceptions"</a>
