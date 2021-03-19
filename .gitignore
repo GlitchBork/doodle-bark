@@ -115,6 +115,7 @@ dist
 # - Project-Defined Ignores - #
 
 firebase.json
+serviceAccountKey.json
 
 # - Project-Defined Ignores - #
 ###############################
