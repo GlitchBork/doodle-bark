@@ -20,6 +20,7 @@
       <li><a href="#mit-express">Express</a></li>
       <li><a href="#mit-cookieparser">cookie-parser</a></li>
       <li><a href="#mit-csurf">csurf</a></li>
+      <li><a href="#mit-handlebars">handlebars</a></li>
     </ul>
   </li>
   
@@ -87,6 +88,10 @@
     <ul>
       <li>Copyright (c) 2014 Jonathan Ong &lt;<a href="mailto:me@jongleberry.com">me@jongleberry.com</a>&gt;</li>
       <li>Copyright (c) 2014-2016 Douglas Christopher Wilson &lt;<a href="mailto:doug@somethingdoug.com">doug@somethingdoug.com</a>&gt;</li>
+    </ul>
+    <h4 id="mit-handlebars">handlebars</h4>
+    <ul>
+      <li>Copyright (c) 2011-2019 Yehuda Katz</li>
     </ul>
   </span>
 
