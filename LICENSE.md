@@ -18,6 +18,7 @@
     <ul>
       <li><a href="#mit-doodlebark">Doodle Bark</a></li>
       <li><a href="#mit-express">Express</a></li>
+      <li><a href="#mit-cookieparser">Cookie-Parser</a></li>
     </ul>
   </li>
   
@@ -32,13 +33,6 @@
     <strong><a href="#license-bsd-2-clause">BSD 2-CLAUSE</a></strong>
     <ul>
       <li><a href="#bsd2-dotenv">dotenv</a></li>
-    </ul>
-  </li>
-  
-  <li>
-    <strong><a href="#license-bsd-3-clause">BSD 3-CLAUSE</a></strong>
-    <ul>
-      <li><a href="#bsd3-protobuf">Protocol Buffers - Google's data interchange format</a></li>
     </ul>
   </li>
 
@@ -82,6 +76,11 @@
       <li>Copyright (c) 2009-2014 TJ Holowaychuk &lt;<a href="mailto:tj@vision-media.ca">tj@vision-media.ca</a>&gt;</li>
       <li>Copyright (c) 2013-2014 Roman Shtylman &lt;<a href="mailto:shtylman+expressjs@gmail.com">shtylman+expressjs@gmail.com</a>&gt;</li>
       <li>Copyright (c) 2014-2015 Douglas Christopher Wilson &lt;<a href="mailto:doug@somethingdoug.com">doug@somethingdoug.com</a>&gt;</li>
+    </ul>
+    <h4 id="mit-cookieparser">Cookie-Parser</h4>
+    <ul>
+      <li>Copyright (c) 2014 TJ Holowaychuk &lt;<a href="mailto:tj@vision-media.ca">tj@vision-media.ca</a>&gt;</li>
+      <li>Copyright (c) 2015 Douglas Christopher Wilson &lt;<a href="mailto:doug@somethingdoug.com">doug@somethingdoug.com</a>&gt;</li>
     </ul>
   </span>
 
@@ -184,38 +183,5 @@
     CAUSED AND ON ANY THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY, 
     OR TORT (INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE 
     OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
-  </p>
-</span>
-
-<br />
-<br />
-<br />
-
-<h2 id="license-bsd-3-clause" align="center">
-  BSD 3-CLAUSE LICENSE
-</h2>
-
-<span align="justify">
-  <span>
-    <h4 id="bsd3-protobuf">Protocol Buffers - Google's data interchange format</h4>
-    <ul>
-      <li>Copyright 2008 Google Inc.  All rights reserved.</li>
-    </ul>
-  </span>
-
-  <br />
-  
-  <p>
-    Redistribution and use in source and binary forms, with or without modification, are permitted provided that the following conditions are met:
-  </p>
-  
-  <ol>
-    <li>Redistributions of source code must retain the above copyright notice, this list of conditions and the following disclaimer.</li>
-    <li>Redistributions in binary form must reproduce the above copyright notice, this list of conditions and the following disclaimer in the documentation and/or other materials provided with the distribution.</li>
-    <li>Neither the name of the copyright holder nor the names of its contributors may be used to endorse or promote products derived from this software without specific prior written permission.</li>
-  </ol>
-  
-  <p>
-    THIS SOFTWARE IS PROVIDED BY THE COPYRIGHT HOLDERS AND CONTRIBUTORS "AS IS" AND ANY EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, THE IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE ARE DISCLAIMED. IN NO EVENT SHALL THE COPYRIGHT HOLDER OR CONTRIBUTORS BE LIABLE FOR ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY, OR CONSEQUENTIAL DAMAGES (INCLUDING, BUT NOT LIMITED TO, PROCUREMENT OF SUBSTITUTE GOODS OR SERVICES; LOSS OF USE, DATA, OR PROFITS; OR BUSINESS INTERRUPTION) HOWEVER CAUSED AND ON ANY THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY, OR TORT (INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
   </p>
 </span>
