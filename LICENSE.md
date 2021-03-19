@@ -37,6 +37,13 @@
       <li><a href="#bsd2-dotenv">dotenv</a></li>
     </ul>
   </li>
+  
+  <li>
+    <strong><a href="#license-bsd-3-clause">BSD 3-CLAUSE</a></strong>
+    <ul>
+      <li><a href="#bsd2-express-handlebars">express-handlebars</a></li>
+    </ul>
+  </li>
 
 </ul>
 
@@ -207,7 +214,7 @@
 
 <span align="justify">
   <span>
-    <h4 id="bsd3-dotenv">express-handlebars</h4>
+    <h4 id="bsd3-express-handlebars">express-handlebars</h4>
     <ul>
       Copyright (c) 2014, Yahoo Inc.  All rights reserved.
     </ul>
