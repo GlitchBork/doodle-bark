@@ -57,6 +57,9 @@
       <li>
         <a href="https://crookm.com" title="Visit their blog!" target="_blank">Matt Crook</a> - <a href="https://crookm.com/journal/2018/handling-express.js-body-parser-json-exceptions">"Handling Express.js Body Parser JSON Exceptions"</a>
       </li>
+      <li>
+        <a href="https://twitter.com/tylermcginnis" title="Visit their Twitter!" target="_blank">Tyler McGinnis</a> - <a href="https://ui.dev/validate-email-address-javascript/">"How to validate an email address in JavaScript"</a>
+      </li>
     </ul>
   </li>
   
